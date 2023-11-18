@@ -82,7 +82,7 @@ nav p span{
     font-family:  Montserrat;
     font-size: 26px;
     margin-bottom: 40px;
-    text-align: justify;
+    text-align: left;
 }
 
 #introdiv>button{
@@ -161,10 +161,10 @@ nav p span{
 
 #formbutt>p{
     font-family: Montserrat;
-font-size: 32px;
-font-weight: 700;
-line-height: 39px;
-letter-spacing: 0em;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0em;
 }
 
 #table{
